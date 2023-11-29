@@ -1,9 +1,8 @@
 # LM Studio Discord Bot
 
-Example Discord bot written in Python that uses the [chat completions API](https://platform.openai.com/docs/api-reference/chat/create) to have conversations with the `gpt-3.5-turbo` model, and the comments out all the [moderations API](https://beta.openai.com/docs/api-reference/moderations) crap that filter the messages.
+Example Discord bot written in Python that uses the [chat completions API](https://platform.openai.com/docs/api-reference/chat/create) to have conversations with the lmstudio local model running on local server, and the comments out all the [moderations API](https://beta.openai.com/docs/api-reference/moderations) crap that filter the messages.
 
 This bot uses the [OpenAI Python Library](https://github.com/openai/openai-python) and [discord.py](https://discordpy.readthedocs.io/).
-
 
 # Features
 
