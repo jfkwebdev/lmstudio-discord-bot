@@ -1,0 +1,7 @@
+OPENAI_API_KEY=mildystationtoonemillion
+OPENAI_BASE_URL=http://localhost:1234/v1
+DISCORD_BOT_TOKEN=x
+DISCORD_CLIENT_ID=x
+
+ALLOWED_SERVER_IDS=x
+DEFAULT_MODEL=local-model
